@@ -4,10 +4,10 @@
 
 | Versão | Data       | Descrição                                 | Autor        | Revisor |
 | ------ | ---------- | ----------------------------------------- | ------------ | -------- |
-| 0.1    | 19/12/2022 | Criação do documento                      | Letícia Aires | Samuel |
-| 0.2    | 26/12/2022 | Adição parcial de conteúdo                | Letícia Aires | Samuel |
-| 0.3    | 27/12/2022 | Adição integral de conteúdo                | Letícia Aires | Samuel |
-| 0.4    | 23/01/2023 | Correção de semântica                     | Guilherme Barbosa | Samuel |
+| 0.1    | 19/12/2022 | Criação do documento                      | Tarciana Sena |  |
+| 0.2    | 26/12/2022 | Adição parcial de conteúdo                |  |  |
+| 0.3    | 27/12/2022 | Adição integral de conteúdo               |  |  |
+| 0.4    | 23/01/2023 | Correção de semântica                     |  |  |
 
 
 ## 1. Introdução
