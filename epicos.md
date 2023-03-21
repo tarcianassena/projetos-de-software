@@ -3,6 +3,7 @@
 ## Histórico de versão
 
 | Versão | Data       | Descrição            | Autor         | Revisor |
+| :---: | :---: | :---: | :---: | :---: |
 | 0.1    | 21/03/2023 | Criação do documento | Tarciana Sena | Tarciana Sena |
 
 
