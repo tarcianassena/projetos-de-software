@@ -5,7 +5,7 @@
 </center>
 
 ## 1. Sobre o Projeto
-Repositório destinado ao portifólio da Product Owner Tarciana Sena. Nesse repositório será possível encontrar as etapas e processos desenvolvidos para a entrega final do projeto desejado. O aplicativo que será base do projeto é o **Linkedin**.
+Repositório destinado ao portifólio da Product Owner Tarciana Sena. Nesse repositório será possível encontrar as etapas e processos desenvolvidos para a entrega final de um projeto. O base do projeto é o aplicativo **Linkedin**.
 
 ## 2. Sobre o Linkedin
 
