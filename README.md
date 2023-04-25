@@ -33,6 +33,12 @@ Linkedin é uma plataforma que permite a criação e postagem de vídeos de dive
 # Início
 # Planejamento
 # Pré-Rastreabilidade
+  Design thinking  O livro Design Thinking – inovação em negócios, define personas como “personagens ficcionais”, criados a partir da análise de comportamentos observados entre pessoas com perfis extremos.
+  Pontos a observar no processo de mapeamemento de personas:
+    Fazer as perguntas certas aos clientes;
+    Coletar os dados;
+    Compilar e analisar tudo que foi coletado;
+    A partir daí definir a persona. 
 # Elicitação
 # Priorização
 # Modelagem
